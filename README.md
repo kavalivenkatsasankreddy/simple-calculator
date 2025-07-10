@@ -1,4 +1,4 @@
-simple-calculator
+# simple-calculator
 
 🔢 Simple Calculator
 
@@ -20,7 +20,8 @@ Responsive and clean user interface
 
 Interactive button design and real-time calculation
 
-🛠️ Technologies Used
+🛠️ Technologies Used 
+
 HTML – For structuring the web page
 
 CSS – For styling the user interface
@@ -28,3 +29,5 @@ CSS – For styling the user interface
 JavaScript – For adding interactivity and logic
 
 📷 Demo
+
+<img width="1910" height="1084" alt="Image" src="https://github.com/user-attachments/assets/4e1aca5a-bdf5-4c68-a57b-f0d95964822b" />
